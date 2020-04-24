@@ -9,7 +9,7 @@ public class Run {
             if (i % j == 0) {
                 licznik++;
             }
-
+            System.out.println(i+ " " + j);
 
         }
         return licznik;
